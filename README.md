@@ -63,6 +63,7 @@ QR_Decomposition(a)
 ```
 ![output]C:\Users\raksh\Downloads\QRdecomposition\input.jpg
 
+
 ```
 
 ## Result

@@ -60,8 +60,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```
-![output]C:\Users\raksh\Downloads\QRdecomposition\input.jpg
+![GitHub Logo](input.jpg)
 
 
 ```
